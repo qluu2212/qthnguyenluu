@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @qthnguyenluu
-- 👀 I’m interested in traveling and watching films.  
+- 👋 Hi, I’m Nguyen
 - 🌱 I’m currently learning informatics at HHU.
 
 
