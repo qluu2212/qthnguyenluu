@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Nguyen
-- 🌱 I’m currently learning informatics at HHU.
+- 👋 Hi, I’m Nguyen (Evy)
+- 🌱 I’m currently doing my Bechelor's in informatics at HHU.
 
 
 <!---
