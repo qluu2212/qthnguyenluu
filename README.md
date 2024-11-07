@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nguyen (Evy)
+- 👋 Hi, I’m Nguyen
 - 🌱 I’m currently doing my Bachelor's in informatics at HHU.
 
 
